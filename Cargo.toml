@@ -1,0 +1,7 @@
+[workspace]
+members = ["new_struct", "update_struct"]
+
+
+[workspace.dependencies]
+syn = { version = "2", features = ["full"] }
+quote = "1.0"
