@@ -1,5 +1,5 @@
 [workspace]
-members = ["new_struct", "update_struct"]
+members = ["new_struct", "update_struct", "iterate_struct"]
 
 
 [workspace.dependencies]
